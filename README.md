@@ -16,7 +16,7 @@ it only fires on a genuine breakdown).
 Run locally with the kit's grade-local (process driver). Standard
 library only; all arithmetic is integer bigint, deterministic.
 
-Grade-local on the kit dev window: net PnL **+3.50 USDC** (1 trade,
-max drawdown 2.12%; still positive at 2x fees) — passes the dev gate.
+Grade-local on the kit dev window: net PnL **+2.93 USDC** (1 trade,
+max drawdown 2.12%; +2.13 USDC still at 2x fees) — passes the dev gate.
 For comparison, v3 scores −4.31 USDC on the same window and every kit
 baseline except momentum and buy-and-hold loses −24 USDC or more.

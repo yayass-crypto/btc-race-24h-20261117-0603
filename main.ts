@@ -35,8 +35,12 @@
 // randomness, no network, no environment reads. Warm-up bars, when the
 // harness sends them, build history but never take orders.
 //
-// Grade-local on this race's dev window: net PnL +3.50 USDC (1 trade,
-// max drawdown 2.12%, still positive at 2x fees). Passes the dev gate.
+// Grade-local on this race's dev window: net PnL +2.93 USDC (1 trade,
+// max drawdown 2.12%, +2.13 USDC still at 2x fees). Passes the dev gate.
+// (An earlier scratch variant that waited 240 bars before its first
+// uptick scored +3.50 on the same window by buying a local low; that
+// gap is entry-timing luck on one window, not a better rule, so the
+// shipped rule buys at the first uptick after 24 bars instead.)
 
 import { runBars, type BarsState, type Batch, type OrderInput } from './vendor/makefun-bars.ts';
 
