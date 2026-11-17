@@ -1,6 +1,12 @@
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/yayass-crypto/btc-race-24h-20261117-0603/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/yayass-crypto/btc-race-24h-20261117-0603/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 # BTC race bot — btc-race-24h-20261117-0603
 
 Buy early, hold, one hard stop. Full size, one trade at most.
+
+Built for [make.fun's Race a BTC trading bot live for 24 hours bounty](https://make.fun/bounty/btc-race-24h-20261117-0603) ($250 USDC).
 
 The 2026-11-17 dev window is choppy (+0.49% net, 2.49% range). Every
 trend-following variant tested lost money on it, including the Donchian
